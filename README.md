@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Thiago :nerd_face:</h1>
 
-<p>I am a Web Development Student at Trybe and I am also studying Internet Systems at UniCesumar, I am passionate about this universe of technology and programming! :man_technologist:</p>
+<p>I am a Web Development Student at Trybe and I am also studying Internet Systems at UniCesumar, I really like this universe of technology and programming! :man_technologist:</p>
 
   <!--Status GitHub-->
 <h2>GitHub Stats :trophy:</h2>
