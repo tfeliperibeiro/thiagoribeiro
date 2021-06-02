@@ -5,7 +5,8 @@
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-<p>Você pode me encontrar nas seguintes redes sociais:</p>
+<p>Você pode me encontrar clicando no ícone do linkedin</p>
+<a href="https://www.linkedin.com/in/tfeliperibeiro/"><img src="linkedin.svg" width="30px"/></a>
 
 
   <!--Status GitHub-->
