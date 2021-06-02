@@ -1,7 +1,12 @@
 
-<h1>Hi, I'm Thiago :nerd_face:</h1>
+<h1>Olá, me chamo Thiago Felipe :nerd_face:</h1>
 
-<p>I am a Web Development Student at Trybe and I am also studying Internet Systems at UniCesumar, I really like this universe of technology and programming! :man_technologist:</p>
+<p>Sou estudante de desenvolvimento Web FullStack na Trybe e Sistemas para internet na UniCesumar :man_technologist:</p>
+
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
+<p>Você pode me encontrar nas seguintes redes sociais:</p>
+
 
   <!--Status GitHub-->
 <h2>GitHub Stats :trophy:</h2>
