@@ -1,7 +1,7 @@
 
 <h1>Olá, me chamo Thiago Felipe :nerd_face:</h1>
 
-<p>Sou estudante de desenvolvimento Web FullStack na Trybe e Sistemas para internet na UniCesumar :man_technologist:</p>
+<p>Sou estudante de desenvolvimento Web FullStack na Trybe e estudante de Sistemas para internet na UniCesumar :man_technologist:</p>
 <p>No momento estou estudando sobre HTML5, CSS3, JavaScript, React e NodeJS.</p>
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
