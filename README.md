@@ -5,7 +5,7 @@
 <p>No momento estou estudando sobre: HTML5, CSS3, JavaScript, React, NodeJS,<br>
   estruturas de dados, Algoritmos e engenharia de Software.</p>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif"/>
 
 <p>👇 Você pode me encontrar clicando no ícone do linkedin :)</p>
 
