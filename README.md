@@ -1,7 +1,7 @@
 
 <h1>Olá, me chamo Thiago Felipe :nerd_face:</h1>
 
-<p>Sou estagiário de Desenvolvimento de software na HDN Digital e Estudante de Sistemas para Internet.</p>
+<p>Sou estagiário de Desenvolvimento de software na HDN Digital.</p>
 
 <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif"/>
 
