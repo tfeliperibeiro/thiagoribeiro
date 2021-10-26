@@ -1,5 +1,5 @@
 
-# Hi there :nerd_face:
+# :nerd_face:
 
 Me chamo Thiago, sou estudante de sistemas para internet e desenvolvimento Web, atualmente sou estagiário em desenvolvimento de software na HDN Digital, apaixonado por tecnologia e programação participei de diversos projetos atuando como Front End e Back End.
 
