@@ -3,7 +3,7 @@
 
 Olá, me chamo Thiago, sou estudante de Engenharia de Software, atualmente sou estagiário de desenvolvimento de software na HDN Digital, apaixonado por tecnologia e programação participei de diversos projetos atuando como Front End e Back End.
 
-Já tive contato com C, C#, Python e JavaScript, atualmente estou me aprofundando em JavaScript e Python, porém estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
+Já tive contato com C, C#, Python e JavaScript, atualmente estou me aprofundando em JavaScript e TypeScript, porém estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
 
 ## Tenho conhecimentos sobre as seguintes tecnologias:
 
