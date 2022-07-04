@@ -1,7 +1,7 @@
 
 # :nerd_face:
 
-Olá, me chamo Thiago, atualmente sou estagiário de desenvolvimento de software na HDN Digital, participei de diversos projetos atuando como Front End e Back End.
+Olá, me chamo Thiago, atualmente sou estagiário de desenvolvimento de software na levva, participei de diversos projetos atuando como Front End e Back End.
 
 Já tive contato com C, C#, Python e JavaScript, atualmente estou me aprofundando em JavaScript e TypeScript, porém estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
 
