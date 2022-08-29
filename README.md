@@ -1,11 +1,11 @@
 
 # :nerd_face:
 
-Olá, me chamo Thiago, atualmente sou Analista de Sistemas Júnior atuando como Desenvolvedor Front End.
+Front End Jr
 
-Já tive contato com C, C#, Python e JavaScript, atualmente estou me aprofundando em JavaScript e TypeScript, porém estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
+Atualmente trabalhando com JavaScript, TypeScript e Next JS.
 
-## Tenho conhecimentos sobre as seguintes tecnologias:
+## Skills:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat=square&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat=square&logo=css3&logoColor=white)&nbsp;
