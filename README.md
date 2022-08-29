@@ -1,7 +1,7 @@
 
 # :nerd_face:
 
-Olá, me chamo Thiago, atualmente sou Analista de Sistemas Júnior atuando como Desenvolvedor Front End na levva.
+Olá, me chamo Thiago, atualmente sou Analista de Sistemas Júnior atuando como Desenvolvedor Front End.
 
 Já tive contato com C, C#, Python e JavaScript, atualmente estou me aprofundando em JavaScript e TypeScript, porém estou sempre disposto a aprender novas tecnologias e atuar em diversas áreas da programação.
 
