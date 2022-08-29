@@ -1,7 +1,7 @@
 
-Front End Jr :nerd_face:
+#Front End Jr #:nerd_face:
 
-Atualmente trabalhando com JavaScript, TypeScript e Next JS.
+Atualmente trabalhando com JavaScript, TypeScript, React JS e Next JS.
 
 ## Skills:
 
