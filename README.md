@@ -6,5 +6,5 @@
   
   ## About 
   
- Front End Jr Developer, currently working with JavaScript, TypeScript, React JS and Next JS.
+ Front End Developer, currently working with JavaScript, TypeScript, React JS and Next JS.
 
