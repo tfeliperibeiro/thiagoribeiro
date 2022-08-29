@@ -1,7 +1,5 @@
 
-# :nerd_face:
-
-Front End Jr
+Front End Jr :nerd_face:
 
 Atualmente trabalhando com JavaScript, TypeScript e Next JS.
 
