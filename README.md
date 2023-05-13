@@ -7,7 +7,7 @@
 
 ### About :grinning:
   
- Front End Developer, currently working with JavaScript, TypeScript, React JS and Next JS.
+ Front-end developer with experience in JavaScript, TypeScript, React Js, and Next Js.
  
  
 
